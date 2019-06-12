@@ -1,0 +1,6 @@
+main: edeventosapo.EDEventoSapo
+name: EDEventoSapo
+author: EduardoMGP
+version: 1.0
+commands:
+    eventosapo:
